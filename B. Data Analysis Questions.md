@@ -13,8 +13,7 @@ FROM foodie_fi.subscriptions;
 ````
 
 **Answer:**
-
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img1.png) 
+<img width="159" alt="image" src="(https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img1.png">
 
 - Foodie-Fi has 1,000 unique customers.
 
@@ -42,7 +41,7 @@ ORDER BY month_date;
 
 **Answer:**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img2.png)   
+<img width="366" alt="image" src="(https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img2.png">
 
 - March has the highest number of trial plans, whereas February has the lowest number of trial plans.
 
@@ -69,7 +68,7 @@ ORDER BY p.plan_id;
 
 **Answer:**
 
-![img]( https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img3.png)
+<img width="592" alt="image" src=" https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img3.png">
 
 - There were 0 customer on trial plan in 2021. Does it mean that there were no new customers in 2021, or did they jumped on basic monthly plan without going through the 7-week trial?
 - We should also look at the data and look at the customer proportion for 2020 and 2021.
@@ -97,7 +96,7 @@ WHERE s.plan_id = 4;
 
 **Answer:**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img4.png)
+<img width="368" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img4.png">
 
 - There are 307 customers who have churned, which is 30.7% of Foodie-Fi customer base.
 
@@ -139,7 +138,7 @@ WHERE plan_id = 4 -- Filter to churn plan
 
 **Answer:**
 
-![img]( https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img5.png)
+<img width="378" alt="image" src=" https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img5.png">
 
 - There are 92 customers who churned straight after the initial free trial which is at 9% of entire customer base.
 
@@ -177,7 +176,7 @@ ORDER BY next_plan;
 ````
 **Answer:**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img6.png)
+<img width="589" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img6.png">
 
 - More than 80% of customers are on paid plans with small 3.7% on plan 3 (pro annual $199). Foodie-Fi has to strategize on their customer acquisition who would be willing to spend more.
 
@@ -212,7 +211,7 @@ ORDER BY plan_id
 
 **Answer:**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img7.png) 
+<img width="448" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img7.png">
 
 ### 8. How many customers have upgraded to an annual plan in 2020?
 
@@ -226,7 +225,7 @@ WHERE plan_id = 3
 
 **Answer:**
 
-![img]( https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img8.png)  
+<img width="160" alt="image" src=" https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img8.png">  
 
 - 196 customers upgraded to an annual plan in 2020.
 
@@ -259,7 +258,7 @@ JOIN annual_plan ap
 
 **Answer:**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img9.png)     
+<img width="182" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img9.png">   
 
 - On average, it takes 105 days for a customer to upragde to an annual plan from the day they join Foodie-Fi.
 
@@ -300,7 +299,7 @@ ORDER BY avg_days_to_upgrade;
 
 **Answer:**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img_10.png)
+<img width="399" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img_10.png">
 
 ### 11. How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 
@@ -324,6 +323,6 @@ WHERE start_date <= '2020-12-31'
 
 **Answer:**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img_11.png)  
+<img width="115" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/B.Data%20Analysis/img_11.png"> 
 
 - No customer has downgrade from pro monthly to basic monthly in 2020.

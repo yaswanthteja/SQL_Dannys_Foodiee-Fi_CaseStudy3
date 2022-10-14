@@ -1,6 +1,6 @@
 # 🥑 Case Study #3: Foodie-Fi
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/Readme/Foodie-Fi.png) 
+<img src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/Readme/Foodie-Fi.png" width="500" height="520" alt="image">
 
 ## 📚 Table of Contents
 - [Business Task](#business-task)
@@ -24,7 +24,8 @@ This case study focuses on using subscription style digital data to answer impor
 
 **Table 1: plans**
 
-![image](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/Readme/Table1.png)
+<img width="207" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/Readme/Table1.png">
+
 There are 5 customer plans.
 
 - Trial — Customer sign up to an initial 7 day free trial and will automatically continue with the pro monthly subscription plan unless they cancel, downgrade to basic or upgrade to an annual pro plan at any point during the trial.
@@ -35,7 +36,7 @@ When customers cancel their Foodie-Fi service — they will have a Churn plan re
 
 **Table 2: subscriptions**
 
-![img](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/Readme/Table2.png) 
+<img width="245" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/images/Readme/Table2.png">
 
 Customer subscriptions show the **exact date** where their specific plan_id starts.
 

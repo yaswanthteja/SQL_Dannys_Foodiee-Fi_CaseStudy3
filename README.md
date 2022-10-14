@@ -8,7 +8,7 @@
 - [Case Study Questions](#case-study-questions)
 - Solution
   - [A. Customer Journey](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/A.%20Customer%20Journey.md)
-  - [B. Data Analysis Questions]https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/B.%20Data%20Analysis%20Questions.md)
+  - [B. Data Analysis Questions](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/blob/master/B.%20Data%20Analysis%20Questions.md)
   - [Complete SQL Syntax](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3/tree/master/SQL%20Syntax)
 
 ***

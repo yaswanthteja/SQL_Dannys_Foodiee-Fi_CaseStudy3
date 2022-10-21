@@ -82,3 +82,12 @@ The Foodie-Fi team wants you to create a new payments table for the year 2020 th
 - once a customer churns they will no longer make payments
 
 ***
+
+- [SQL_Dannys_Diner_CaseStudy1](https://github.com/yaswanthteja/SQL_Dannys_Diner_CaseStudy1)
+
+
+- [SQL_Dannys_Pizza_Runner_CaseStudy2-](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-)
+
+- [SQL_Dannys_Data-Bank_CaseStudy4](https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4)
+
+
